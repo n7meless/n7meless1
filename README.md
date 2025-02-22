@@ -1,25 +1,15 @@
 ```kotlin
-@file:JvmName("Main")
+val nouseeker by developer {
+    name = "Aidar"
+    surname = "Almukhametov"
+    description = "Software Engineer"
 
-fun main() {
-    val nouseeker by developer {
-        name = "Aidar"
-        surname = "Almukhametov"
-        description = "Software Engineer"
-
-        contacts {
-            email = "nouseeker@yahoo.com"
-            telegram = "t.me/nouseeker"
-            linkedin = "linkedin.com/in/nouseeker"
-        }
+    contacts {
+        email = "nouseeker@yahoo.com"
+        telegram = "t.me/nouseeker"
+        linkedin = "linkedin.com/in/nouseeker"
     }
-    nouseeker.work()
 }
-```
-
-```bash
-gradle --no-build-cache jar
-java -jar -Dprofile=BACKEND main.jar
 ```
 
 <table>
