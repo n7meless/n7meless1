@@ -22,8 +22,8 @@ val nouseeker by developer {
         </td>
         <td>
             <a href="https://github.com/nouseeker" title="Go to Source">
-                <img alt="stars" height=200 width=400
-                     src="https://github-readme-stats.vercel.app/api?username=nouseeker&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+                <img alt="stars" width=450
+                     src="https://github-readme-stats.vercel.app/api?username=nouseeker&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide_title=true"/>
             </a>
         </td>
     </tr>
@@ -41,12 +41,20 @@ val nouseeker by developer {
             </a>
         </td>
     </tr>
-    <tr>
-        <td colspan="2">
-            <a href="https://github.com/nouseeker" title="Go to Source">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=nouseeker&theme=react-dark&bg_color=20232a&hide_border=true&grid=true&days=31"
-                     width="100%"/>
-            </a>
-        </td>
-    </tr>
+
+[//]: # (    <tr>)
+
+[//]: # (        <td colspan="2">)
+
+[//]: # (            <a href="https://github.com/nouseeker" title="Go to Source">)
+
+[//]: # (                <img src="https://github-readme-activity-graph.vercel.app/graph?username=nouseeker&theme=react-dark&bg_color=20232a&hide_border=true&grid=true&days=31")
+
+[//]: # (                     width="100%"/>)
+
+[//]: # (            </a>)
+
+[//]: # (        </td>)
+
+[//]: # (    </tr>)
 </table>
